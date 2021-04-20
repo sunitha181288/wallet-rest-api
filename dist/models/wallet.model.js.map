@@ -1,0 +1,1 @@
+{"version":3,"file":"wallet.model.js","sourceRoot":"","sources":["../../src/models/wallet.model.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,qDAA6C;AAG7C,MAAM,eAAe;IAKnB,YAAY,MAAc,EAAE,KAAkB;QAC5C,IAAI,CAAC,MAAM,GAAG,MAAM,CAAC;QACrB,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACrB,CAAC;CACF;AANC;IADC,4BAAU,EAAE;8BACC,KAAK;8CAAO;AAQ5B,kBAAe,eAAe,CAAC"}
